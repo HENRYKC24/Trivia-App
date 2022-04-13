@@ -1,0 +1,40 @@
+.containerStyle {
+  display: flex;
+  min-height: 95vh;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.categoryStyle {
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.questionStyle {
+  border: 1px solid;
+  padding: 50px;
+  min-height: 30vh;
+  display: inline-flex;
+  align-items: center;
+  font-weight: 500;
+}
+
+.btnContainerStyle {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.btnStyle {
+  border: none;
+  background-color: rgb(39, 35, 35);
+  color: white;
+  width: 100px;
+  height: 30px;
+  font-size: 1.1rem;
+}
+
+.questionNumberStyle {
+  margin-bottom: 30px;
+}
