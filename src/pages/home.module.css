@@ -1,0 +1,26 @@
+.containerStyle {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
+}
+
+.welcomeContainerStyle {
+  padding: 0;
+}
+
+.welcomeContainerStyle,
+.welcomeToStyle {
+  padding: 0;
+}
+
+.challengeStyle {
+  margin-top: -20px;
+}
+
+.beginBtnStyle {
+  margin-bottom: 50px;
+  border: none;
+  background-color: unset;
+  font-size: 2rem;
+}
